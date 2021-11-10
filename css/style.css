@@ -1,0 +1,17 @@
+/* #three-canvas{
+    width: 70%;
+    height: 80vh;
+    color: grey;
+} */
+
+.input-container{
+    display: flex;
+    justify-content: center;
+}
+.ifc-data{
+    border: 1px solid black;
+}
+.canvas{
+    border: 1px solid red;
+    overflow: hidden;
+}
