@@ -1,0 +1,9 @@
+.section-right{
+    position: unset !important;
+    background-color: #b7b7b7fd !important ;
+
+}
+.login-img{
+    width: 100%;
+    opacity: 0.4;
+}
